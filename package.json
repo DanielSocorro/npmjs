@@ -1,0 +1,25 @@
+{
+  "name": "npmjs",
+  "version": "1.0.0",
+  "description": "Building a package for node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "node",
+    "package"
+  ],
+  "author": "Daniel Socorro <danie.socorro.c@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "date-fns": "^2.29.3"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
